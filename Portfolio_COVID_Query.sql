@@ -4,6 +4,7 @@ Then split into 2 CSVs in Microsoft Excel: covid_vax.csv and covid_deaths.csv
 CSVs were further edited (formatting date and removing apostrophe from "Cote D'Ivoire")
 -and imported into MySQL for querying
 Queries run from DataGrip 2022.3.3
+Companion Visualization on Tableau - https://public.tableau.com/app/profile/jin.yu7677/viz/GlobalCOVID22023/Dashboard1
 */
 
 select * from world.covid_deaths
