@@ -3,6 +3,7 @@ Data Drawn from https://ourworldindata.org/covid-deaths on 2/20/2023
 Then split into 2 CSVs in Microsoft Excel: covid_vax.csv and covid_deaths.csv
 CSVs were further edited (formatting date and removing apostrophe from "Cote D'Ivoire")
 -and imported into MySQL for querying
+Visualizations and Dashboard: https://public.tableau.com/app/profile/jin.yu7677/viz/GlobalCOVID22023/Dashboard1
 Queries run from DataGrip 2022.3.3
 */
 
